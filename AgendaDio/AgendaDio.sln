@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaDio", "AgendaDio\AgendaDio.csproj", "{373E6655-91C3-4934-927C-FD6166C470ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373E6655-91C3-4934-927C-FD6166C470ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373E6655-91C3-4934-927C-FD6166C470ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373E6655-91C3-4934-927C-FD6166C470ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373E6655-91C3-4934-927C-FD6166C470ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD25BD69-876D-4792-93DF-8E75E60E34A4}
+	EndGlobalSection
+EndGlobal

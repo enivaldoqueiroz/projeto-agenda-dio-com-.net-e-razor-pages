@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jose.costa.FITBANK\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jose.costa.FITBANK\\.nuget\\packages"
+    ]
+  }
+}
