@@ -354,3 +354,4 @@ C:\Users\jose.costa.FITBANK\Documents\ENIVALDO\DIO\PROJETOS_CSHARP_DIO_AVANADE\p
 C:\Users\jose.costa.FITBANK\Documents\ENIVALDO\DIO\PROJETOS_CSHARP_DIO_AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net5.0\ref\AgendaDio.dll
 C:\Users\jose.costa.FITBANK\Documents\ENIVALDO\DIO\PROJETOS_CSHARP_DIO_AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net5.0\AgendaDio.pdb
 C:\Users\jose.costa.FITBANK\Documents\ENIVALDO\DIO\PROJETOS_CSHARP_DIO_AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net5.0\AgendaDio.genruntimeconfig.cache
+C:\Users\jose.costa.FITBANK\Documents\ENIVALDO\DIO\PROJETOS_CSHARP_DIO_AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net5.0\Razor\Areas\Contatos\Pages\Index.cshtml.g.cs
