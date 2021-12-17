@@ -1,0 +1,9 @@
+D:\DIO\DECOLA-TECH-AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net6.0\AgendaDio.csproj.AssemblyReference.cache
+D:\DIO\DECOLA-TECH-AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net6.0\AgendaDio.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\DECOLA-TECH-AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net6.0\AgendaDio.AssemblyInfoInputs.cache
+D:\DIO\DECOLA-TECH-AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net6.0\AgendaDio.AssemblyInfo.cs
+D:\DIO\DECOLA-TECH-AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net6.0\AgendaDio.csproj.CoreCompileInputs.cache
+D:\DIO\DECOLA-TECH-AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net6.0\AgendaDio.MvcApplicationPartsAssemblyInfo.cs
+D:\DIO\DECOLA-TECH-AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net6.0\AgendaDio.MvcApplicationPartsAssemblyInfo.cache
+D:\DIO\DECOLA-TECH-AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net6.0\AgendaDio.RazorAssemblyInfo.cache
+D:\DIO\DECOLA-TECH-AVANADE\projeto-agenda-dio-com-.net-e-razor-pages\AgendaDio\AgendaDio\obj\Debug\net6.0\AgendaDio.RazorAssemblyInfo.cs
