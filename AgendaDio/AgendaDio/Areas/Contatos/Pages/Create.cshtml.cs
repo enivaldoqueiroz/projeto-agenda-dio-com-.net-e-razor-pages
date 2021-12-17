@@ -10,9 +10,19 @@ namespace AgendaDio.Areas.Contatos.Pages
 {
     public class CreateModel : PageModel
     {
+        [BindProperty]
         public Contato Contato { get; set; }
         public void OnGet()
         {
+        }
+        public IActionResult OnPost()
+        {
+            if (!ModelState.IsValid)
+            {
+                return Page();
+            }
+            //todo: persistir os dados
+            return RedirectToPage("Index");
         }
     }
 }
