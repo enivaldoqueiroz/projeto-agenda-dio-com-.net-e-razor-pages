@@ -15,12 +15,15 @@ namespace AgendaDio.Areas.Contatos.Pages
         public void OnGet()
         {
         }
-        public IActionResult OnPost()
+        public async IActionResult OnPost()
         {
             if (!ModelState.IsValid)
             {
                 return Page();
             }
+            //salvar a image
+            Contato.Foto.CopyToAsync();
+
             //todo: persistir os dados
             return RedirectToPage("Index");
         }
