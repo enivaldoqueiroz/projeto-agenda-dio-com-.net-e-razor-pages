@@ -7,7 +7,7 @@
 <div class="row">
 	<h2 class="text-info">Novo Contato</h2>
 </div>
-<form mothod="post" enctype="multpart/form-data">
+<form mothod="post" enctype="multipart/form-data">
 	<div class="border backgroundWhite">
 		<div class="form-group row mb-3">
 			<div class="col-2">
@@ -60,10 +60,13 @@
 						<input type="submit" class="btn btn-success form-control" value="Salvar" />
 					</div>
 					<div class="col-6">
-						<a asp-for="Index" class="btn btn-danger form-control">Cancelar</a> 
+						<a asp-page="Index" class="btn btn-danger form-control">Cancelar</a> 
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </form>
+@section Scripts{ 
+	<partial name="_ValidationScriptsPartial" />
+}
