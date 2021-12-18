@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose.costa.FITBANK\\Documents\\ENIVALDO\\DIO\\PROJETOS_CSHARP_DIO_AVANADE\\projeto-agenda-dio-com-.net-e-razor-pages\\AgendaDio\\AgendaDio\\AgendaDio.csproj": {}
+    "D:\\DIO\\DECOLA-TECH-AVANADE\\projeto-agenda-dio-com-.net-e-razor-pages\\AgendaDio\\AgendaDio\\AgendaDio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose.costa.FITBANK\\Documents\\ENIVALDO\\DIO\\PROJETOS_CSHARP_DIO_AVANADE\\projeto-agenda-dio-com-.net-e-razor-pages\\AgendaDio\\AgendaDio\\AgendaDio.csproj": {
+    "D:\\DIO\\DECOLA-TECH-AVANADE\\projeto-agenda-dio-com-.net-e-razor-pages\\AgendaDio\\AgendaDio\\AgendaDio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose.costa.FITBANK\\Documents\\ENIVALDO\\DIO\\PROJETOS_CSHARP_DIO_AVANADE\\projeto-agenda-dio-com-.net-e-razor-pages\\AgendaDio\\AgendaDio\\AgendaDio.csproj",
+        "projectUniqueName": "D:\\DIO\\DECOLA-TECH-AVANADE\\projeto-agenda-dio-com-.net-e-razor-pages\\AgendaDio\\AgendaDio\\AgendaDio.csproj",
         "projectName": "AgendaDio",
-        "projectPath": "C:\\Users\\jose.costa.FITBANK\\Documents\\ENIVALDO\\DIO\\PROJETOS_CSHARP_DIO_AVANADE\\projeto-agenda-dio-com-.net-e-razor-pages\\AgendaDio\\AgendaDio\\AgendaDio.csproj",
-        "packagesPath": "C:\\Users\\jose.costa.FITBANK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose.costa.FITBANK\\Documents\\ENIVALDO\\DIO\\PROJETOS_CSHARP_DIO_AVANADE\\projeto-agenda-dio-com-.net-e-razor-pages\\AgendaDio\\AgendaDio\\obj\\",
+        "projectPath": "D:\\DIO\\DECOLA-TECH-AVANADE\\projeto-agenda-dio-com-.net-e-razor-pages\\AgendaDio\\AgendaDio\\AgendaDio.csproj",
+        "packagesPath": "C:\\Users\\eniva\\.nuget\\packages\\",
+        "outputPath": "D:\\DIO\\DECOLA-TECH-AVANADE\\projeto-agenda-dio-com-.net-e-razor-pages\\AgendaDio\\AgendaDio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jose.costa.FITBANK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eniva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
