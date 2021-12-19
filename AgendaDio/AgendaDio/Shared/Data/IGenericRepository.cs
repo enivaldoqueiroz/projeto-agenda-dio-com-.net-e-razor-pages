@@ -26,5 +26,6 @@ namespace AgendaDio.Shared.Data
             bool noTracking = false, int? take = null, int? skip = null,
             CancellationToken cancellationToken = default);
         Task<bool> CommitAsync(CancellationToken cancellationToken);
+        ValueTask DisposeAsync();
     }
 }
